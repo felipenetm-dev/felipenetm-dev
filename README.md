@@ -1,1 +1,7 @@
 ## vamos da gama
+[.ShellClassInfo]
+IconResource=C:\WINDOWS\System32\SHELL32.dll,14
+[ViewState]
+Mode=
+Vid=
+FolderType=Generic
