@@ -16,9 +16,11 @@
 ## 🕸️ Estou aprendendo
  ![Linguagens](https://skillicons.dev/icons?i=java,c)
 
-## 📊 Estatísticas
+## 📊 Linguagens
 
-<img src="https://github-readme-stats.vercel.app/api?username=felipenetm-dev&show_icons=true&bg_color=0B1A3D&title_color=E62429&icon_color=E62429&text_color=FFFFFF&border_color=E62429" />
+<p align="center">
+  <img src="./linguagens.svg" width="480" />
+</p>
 
 ## 🐍 Minhas contribuições
 
