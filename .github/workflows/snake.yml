@@ -17,7 +17,8 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=0057B8&color_dots=ebedf0,ffb3b3,ff6b6b,E62429,8a0f14
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#E62429&color_dots=#1a2b52,#0057B8,#3b82d6,#7fb2f0,#b5d3f8
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
