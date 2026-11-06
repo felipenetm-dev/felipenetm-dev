@@ -24,4 +24,8 @@
 
 ![Snake animation](https://raw.githubusercontent.com/felipenetm-dev/felipenetm-dev/output/github-contribution-grid-snake.svg)
 
+<p align="right">
+  <img src="./venom-luffy.jpg" width="100" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0057B8&height=100&section=footer" width="100%" />
