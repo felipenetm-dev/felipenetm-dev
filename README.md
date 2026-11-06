@@ -19,7 +19,7 @@
 ## 📊 Linguagens
 
 <p align="center">
-  <img src="./linguagens.svg" width="480" />
+  <img src="./linguagens (1).svg" width="480" />
 </p>
 
 ## 🐍 Minhas contribuições
